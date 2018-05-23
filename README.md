@@ -43,7 +43,7 @@ These are the shortcuts that I use the most. Best are in **bold**.
 | Open github panel | `ctrl-8` | `ctrl-8` |
 
 ## Packages
-| Package | Description & Download |
+| Package | Description and Link |
 |---|---|
-| Github | [Git and Github panels in atom.](https://github.atom.io/) |
-| Teletype | [Live co-authoring.](https://atom.io/packages/teletype)
+| Github | Git and Github panels in atom. [Visit](https://github.atom.io/) |
+| Teletype | Live co-authoring. [Visit](https://teletype.atom.io/)
