@@ -6,24 +6,24 @@ These are the shortcuts that I use the most. Best are in **bold**.
 
 *I do not use Windows, but I believe that the commands match those for Linux.*
 
-### General
+#### General
 | Command | Mac | Linux |
-|---|---|---|---|
+|---|---|---|
 | **Preferences/Settings** | `cmd-,` | `ctrl-,` |
 | Select Language | `cmd-shift-l` | `ctrl-shift-l` |
 | Markdown preview | `cmd-shift-m` | `ctrl-shift-m` |
 
-### File Management
+#### File Management
 | Command | Mac | Linux |
-|---|---|---|---|
+|---|---|---|
 | **Open file** (fuzzy) | `cmd-t` | `ctrl-t` |
 | Toggle directory tree | `cmd-\` | `ctrl-\` |
 | New file | `cmd-n` | `ctrl-n` |
 | Save file | `cmd-s` | `ctrl-s` |
 
-### Editing
+#### Editing
 | Command | Mac | Linux |
-|---|---|---|---|
+|---|---|---|
 | **Move line up** (selection) | `ctrl-cmd-up` | `ctrl-up` |
 | **Move line down** (selection) | `ctrl-cmd-down` | `ctrl-down` |
 | **Go to matching bracket** | `ctrl-m` | `ctrl-m` |
@@ -41,3 +41,7 @@ These are the shortcuts that I use the most. Best are in **bold**.
 | Fold/Unfold code section | `option-cmd-[` / `option-cmd-]` | `ctrl-shift-[` / `ctrl-shift-]` |
 | Open git panel | `ctrl-9` | `ctrl-9` |
 | Open github panel | `ctrl-8` | `ctrl-8` |
+
+## Packages
+| Package | Download |
+|---|---|
