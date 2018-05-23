@@ -45,3 +45,4 @@ These are the shortcuts that I use the most. Best are in **bold**.
 ## Packages
 | Package | Download |
 |---|---|
+| Github | [package](https://github.atom.io/) |
