@@ -10,7 +10,7 @@ These are the shortcuts that I use the most. Best are in **bold**.
 | Command | Mac | Linux |
 |---|---|---|
 | **Preferences/Settings** | `cmd-,` | `ctrl-,` |
-| Select Language | `cmd-shift-l` | `ctrl-shift-l` |
+| Select Language | `ctrl-shift-l` | `ctrl-shift-l` |
 | Markdown preview | `cmd-shift-m` | `ctrl-shift-m` |
 
 #### File Management
