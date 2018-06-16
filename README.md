@@ -11,7 +11,7 @@ These are the shortcuts that I use the most. Best are in **bold**.
 |---|---|---|
 | **Preferences/Settings** | `cmd-,` | `ctrl-,` |
 | Select Language | `ctrl-shift-l` | `ctrl-shift-l` |
-| Markdown preview | `cmd-shift-m` | `ctrl-shift-m` |
+| Markdown preview | `ctrl-shift-m` | `ctrl-shift-m` |
 
 #### File Management
 | Command | Mac | Linux |
